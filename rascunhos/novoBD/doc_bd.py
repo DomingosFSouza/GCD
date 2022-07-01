@@ -1,7 +1,7 @@
 import mysql.connector
 from mysql.connector import errorcode
 import pandas as pd
-import psycopg2
+#import psycopg2
 import os
 
 class Config:
